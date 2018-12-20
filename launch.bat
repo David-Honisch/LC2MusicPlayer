@@ -1,0 +1,1 @@
+explorer "dist\win-unpacked\LC2MusicPlayer.exe"
